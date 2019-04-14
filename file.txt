@@ -1,3 +1,5 @@
-I am Programmer
+I am Programmer,
 Writting some random text
 with some good feelings.
+This time,i am using the Github not the 
+git so be carefull haters.
